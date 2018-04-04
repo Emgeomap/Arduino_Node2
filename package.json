@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "brown": "^1.1.28",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.11",
+    "net": "^1.0.2",
+    "nodemon": "^1.17.2"
+  },
+  "scripts": {
+    "go": "./node_modules/.bin/nodemon server.js"
+  }
+}
